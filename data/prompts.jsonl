@@ -1,0 +1,90 @@
+{"id": "h01", "label": "haiku", "prompt": "What is the capital of Japan?"}
+{"id": "h02", "label": "haiku", "prompt": "Translate 'good morning' into Spanish."}
+{"id": "h03", "label": "haiku", "prompt": "Convert 72 degrees Fahrenheit to Celsius."}
+{"id": "h04", "label": "haiku", "prompt": "Fix the spelling in this sentence: 'I recieved the pakage yesterday.'"}
+{"id": "h05", "label": "haiku", "prompt": "Give me a synonym for 'quick'."}
+{"id": "h06", "label": "haiku", "prompt": "What does HTTP stand for?"}
+{"id": "h07", "label": "haiku", "prompt": "Summarize in one sentence: The meeting is moved from Monday to Wednesday at 3 pm."}
+{"id": "h08", "label": "haiku", "prompt": "List three primary colors."}
+{"id": "h09", "label": "haiku", "prompt": "Is 97 a prime number?"}
+{"id": "h10", "label": "haiku", "prompt": "Write a short thank-you note to a colleague who helped me move desks."}
+{"id": "h11", "label": "haiku", "prompt": "What year did the Berlin Wall fall?"}
+{"id": "h12", "label": "haiku", "prompt": "Rewrite this more politely: 'Send me the file now.'"}
+{"id": "h13", "label": "haiku", "prompt": "How many bytes are in a kilobyte?"}
+{"id": "h14", "label": "haiku", "prompt": "What is the plural of 'analysis'?"}
+{"id": "h15", "label": "haiku", "prompt": "Turn this into a bullet list: apples, pears, plums."}
+{"id": "h16", "label": "haiku", "prompt": "What time zone is Baghdad in?"}
+{"id": "h17", "label": "haiku", "prompt": "Give me a title for a blog post about morning walks."}
+{"id": "h18", "label": "haiku", "prompt": "What is the chemical symbol for sodium?"}
+{"id": "h19", "label": "haiku", "prompt": "Classify this review as positive or negative: 'The battery died after two hours.'"}
+{"id": "h20", "label": "haiku", "prompt": "Extract the email address from: 'Contact me at ali@example.com for details.'"}
+{"id": "h21", "label": "haiku", "prompt": "What is 15% of 240?"}
+{"id": "h22", "label": "haiku", "prompt": "Shorten this to under 10 words: 'We would like to inform you that the office will be closed tomorrow.'"}
+{"id": "h23", "label": "haiku", "prompt": "Who wrote 'Pride and Prejudice'?"}
+{"id": "h24", "label": "haiku", "prompt": "What's the opposite of 'increase'?"}
+{"id": "h25", "label": "haiku", "prompt": "Format this date as ISO 8601: March 5, 2026."}
+{"id": "h26", "label": "haiku", "prompt": "Suggest a name for a grey cat."}
+{"id": "h27", "label": "haiku", "prompt": "What is the boiling point of water at sea level in Celsius?"}
+{"id": "h28", "label": "haiku", "prompt": "Correct the grammar: 'She don't like coffee.'"}
+{"id": "h29", "label": "haiku", "prompt": "How do you say 'thank you' in Arabic?"}
+{"id": "h30", "label": "haiku", "prompt": "Give me a one-line definition of latency."}
+{"id": "s01", "label": "sonnet", "prompt": "Explain how OFDM handles multipath fading, for a second-year engineering student, in about 200 words."}
+{"id": "s02", "label": "sonnet", "prompt": "Write a Python function that parses a CSV file of sensor readings and returns the hourly average per sensor. Include type hints."}
+{"id": "s03", "label": "sonnet", "prompt": "Compare REST and GraphQL for a mobile app backend. Give a table of pros and cons."}
+{"id": "s04", "label": "sonnet", "prompt": "Summarize this abstract in 3 bullets and list the main numbers: 'We propose a residual CNN for channel estimation under impulsive noise. At 15 dB SNR it reduces NMSE by 7.3 dB compared with least squares, using 120,000 simulated frames.'"}
+{"id": "s05", "label": "sonnet", "prompt": "Debug this JavaScript: why does it print undefined?\n```js\nfunction getUser(){ fetch('/u').then(r=>r.json()).then(d=>{ return d.name }) }\nconsole.log(getUser())\n```"}
+{"id": "s06", "label": "sonnet", "prompt": "Write a SQL query that finds the top 5 customers by total order value in 2025, given tables orders(id, customer_id, total, created_at) and customers(id, name)."}
+{"id": "s07", "label": "sonnet", "prompt": "Explain the difference between precision and recall with a medical test example."}
+{"id": "s08", "label": "sonnet", "prompt": "Draft a professional email asking a professor for a recommendation letter for a master's program in optical communications."}
+{"id": "s09", "label": "sonnet", "prompt": "Convert this Python loop into a vectorized NumPy expression and explain the speedup:\n```python\nout=[]\nfor x in data:\n    out.append(x*x+2*x)\n```"}
+{"id": "s10", "label": "sonnet", "prompt": "Write unit tests with pytest for a function that validates IPv4 addresses."}
+{"id": "s11", "label": "sonnet", "prompt": "Explain what a Kalman filter does using the example of tracking a drone's position."}
+{"id": "s12", "label": "sonnet", "prompt": "Create a weekly study plan for learning Rust in one month, two hours per day."}
+{"id": "s13", "label": "sonnet", "prompt": "Write a regular expression that matches dates in the form DD/MM/YYYY and explain each part."}
+{"id": "s14", "label": "sonnet", "prompt": "Explain why my Docker container cannot reach a service on localhost of the host machine, and how to fix it."}
+{"id": "s15", "label": "sonnet", "prompt": "Rewrite this paragraph for clarity and keep the technical meaning: 'The system, which was designed in order to be able to provide improved throughput, achieves a throughput improvement of 20%.'"}
+{"id": "s16", "label": "sonnet", "prompt": "Write a bash script that backs up a folder to a dated tar.gz file and deletes backups older than 7 days."}
+{"id": "s17", "label": "sonnet", "prompt": "Explain the bias-variance trade-off with a simple polynomial fitting example."}
+{"id": "s18", "label": "sonnet", "prompt": "Write a React component that shows a list of tasks with a checkbox to mark each one done."}
+{"id": "s19", "label": "sonnet", "prompt": "What are the main causes of packet loss in Wi-Fi networks and how can each be diagnosed?"}
+{"id": "s20", "label": "sonnet", "prompt": "Explain how prompt caching reduces API cost, with a numeric example."}
+{"id": "s21", "label": "sonnet", "prompt": "Turn these meeting notes into a structured summary with decisions and action items: discussed budget, Ali to send quotes by Friday, agreed to delay launch to March, Sara will update the website."}
+{"id": "s22", "label": "sonnet", "prompt": "Write an Arduino sketch that reads a DHT22 sensor every 2 seconds and prints temperature and humidity."}
+{"id": "s23", "label": "sonnet", "prompt": "Explain the difference between TCP and UDP and when you would choose each for a video call app."}
+{"id": "s24", "label": "sonnet", "prompt": "Write a Python class for a simple LRU cache with get and put in O(1)."}
+{"id": "s25", "label": "sonnet", "prompt": "Explain what the Shannon capacity formula says and calculate it for 20 MHz at 15 dB SNR."}
+{"id": "s26", "label": "sonnet", "prompt": "Review this function name and suggest better names: def do_stuff2(x, y, flag)."}
+{"id": "s27", "label": "sonnet", "prompt": "Explain gradient descent and the role of the learning rate, with a 1-D example."}
+{"id": "s28", "label": "sonnet", "prompt": "Write a Go function that reverses a string correctly for Unicode input."}
+{"id": "s29", "label": "sonnet", "prompt": "Summarize the key differences between LoRaWAN and NB-IoT for a smart agriculture project."}
+{"id": "s30", "label": "sonnet", "prompt": "Explain what a race condition is and show a minimal example in Python threading."}
+{"id": "o01", "label": "opus", "prompt": "Design the architecture of a real-time fraud detection system for 50,000 transactions per second. Analyze the trade-offs between stream processing frameworks, justify the storage choices, and explain how you would handle concept drift, latency budgets and failure recovery."}
+{"id": "o02", "label": "opus", "prompt": "Prove that the eigenvalues of a real symmetric matrix are real and that eigenvectors of distinct eigenvalues are orthogonal. Derive each step."}
+{"id": "o03", "label": "opus", "prompt": "Derive the BER of BPSK over a Rayleigh fading channel with L-branch maximal ratio combining, then analyze how the diversity order appears in the high-SNR slope."}
+{"id": "o04", "label": "opus", "prompt": "Our distributed key-value store loses writes during network partitions. Here is the replication logic:\n```go\nfunc (n *Node) Put(k, v string) error {\n  n.local[k] = v\n  for _, p := range n.peers { go p.Replicate(k, v) }\n  return nil\n}\n```\nAnalyze the consistency guarantees, explain exactly how writes are lost, and design a fix with quorum reads and writes. Justify the trade-offs for latency and availability."}
+{"id": "o05", "label": "opus", "prompt": "Plan a 6-month research project on deep learning channel estimation for VLC-OFDM: research questions, methodology, datasets, baselines, evaluation metrics, risks and a timeline. Critique the weakest assumption in the plan."}
+{"id": "o06", "label": "opus", "prompt": "Write a lock-free single-producer single-consumer ring buffer in Rust, explain the memory orderings you chose, and argue why it is free of data races."}
+{"id": "o07", "label": "opus", "prompt": "Analyze the security of this login flow and list every vulnerability with a fix: the server stores MD5 password hashes, sends a session ID in the URL, and resets passwords by emailing the new password in plain text."}
+{"id": "o08", "label": "opus", "prompt": "Derive the gradient of the softmax cross-entropy loss with respect to the logits, then prove that it is numerically stable to compute it with the log-sum-exp trick."}
+{"id": "o09", "label": "opus", "prompt": "Compare three approaches to scaling a PostgreSQL database that has reached 5 TB and 20,000 queries per second: vertical scaling, read replicas with partitioning, and migrating to a distributed SQL engine. Evaluate cost, operational risk and migration plan for each, and recommend one."}
+{"id": "o10", "label": "opus", "prompt": "Optimize this O(n^2) algorithm for finding pairs that sum to a target in a stream of 10^8 integers with limited memory, analyze time and space complexity, and discuss edge cases with duplicates and overflow."}
+{"id": "o11", "label": "opus", "prompt": "Explain and derive the water-filling power allocation for parallel Gaussian channels using Lagrange multipliers, then compute it for gains 1.0, 0.5 and 0.1 with total power 3."}
+{"id": "o12", "label": "opus", "prompt": "Design an experiment to test whether a new prompt format reduces hallucinations in a RAG system. Define metrics, sample size with a power analysis, controls, and how to avoid evaluator bias."}
+{"id": "o13", "label": "opus", "prompt": "Review this research claim critically: 'Our model achieves 99.2% accuracy, proving it generalizes to all hospitals.' The test set came from the same hospital as training. Explain every methodological flaw and design a proper validation."}
+{"id": "o14", "label": "opus", "prompt": "Implement and explain a consensus algorithm for a 5-node cluster that tolerates one Byzantine node. Justify why the number of nodes is sufficient or not."}
+{"id": "o15", "label": "opus", "prompt": "Analyze why this PyTorch training loop's loss becomes NaN after 3 epochs and propose a systematic debugging plan:\n```python\nfor x,y in loader:\n    out=model(x)\n    loss=(out-y).pow(2).mean()/y.std()\n    loss.backward(); opt.step()\n```"}
+{"id": "o16", "label": "opus", "prompt": "Write a formal proof that the halting problem is undecidable and explain where the diagonal argument is used."}
+{"id": "o17", "label": "opus", "prompt": "Design an end-to-end ISAC waveform for a 6G base station that must detect targets at 200 m and serve 20 users. Analyze the trade-off between sensing resolution and communication rate and justify parameter choices."}
+{"id": "o18", "label": "opus", "prompt": "Evaluate three strategies for migrating a 400,000-line monolith to microservices with zero downtime. Include data ownership, rollback plans and the order of extraction, and critique your own recommendation."}
+{"id": "o19", "label": "opus", "prompt": "Derive the Cram\u00e9r-Rao lower bound for estimating the frequency of a sinusoid in white Gaussian noise and compare it to the FFT-based estimator."}
+{"id": "o20", "label": "opus", "prompt": "Plan the threat model and security architecture for a hospital IoT network of 2,000 patient monitors. Analyze attack surfaces, segmentation, update strategy and compliance trade-offs."}
+{"id": "o21", "label": "opus", "prompt": "Explain the mathematical relationship between attention in transformers and kernel smoothing, derive the softmax attention as a kernel estimator, and analyze the computational complexity of linear attention alternatives."}
+{"id": "o22", "label": "opus", "prompt": "Optimize the energy consumption of a battery-powered LoRa sensor that must report every 10 minutes for 5 years. Analyze duty cycles, spreading factors and sleep currents with numbers, and justify the final design."}
+{"id": "o23", "label": "opus", "prompt": "Prove that the expected number of comparisons in randomized quicksort is O(n log n) and derive the constant."}
+{"id": "o24", "label": "opus", "prompt": "Design a caching layer for an LLM API gateway that handles semantic duplicates, not only exact matches. Analyze correctness risks, invalidation, privacy and how to measure the false-hit rate."}
+{"id": "o25", "label": "opus", "prompt": "Critique this experimental design and propose a better one: we trained 3 models once each with different seeds per model and reported the best test score of each."}
+{"id": "o26", "label": "opus", "prompt": "Analyze the stability of the discrete-time system x[k+1] = A x[k] with A = [[0.9, 0.5],[\u22120.4, 0.8]]: compute the eigenvalues, prove stability or instability, and design a state feedback gain that places both poles at 0.5."}
+{"id": "o27", "label": "opus", "prompt": "Design the data pipeline and model for predicting optical network failures 30 minutes ahead from telemetry of 10,000 links. Justify features, labels, class imbalance handling and evaluation without leakage."}
+{"id": "o28", "label": "opus", "prompt": "Write a detailed comparison of three approaches to formal verification of smart contracts, evaluate their soundness and scalability, and recommend one for a DeFi lending protocol with reasons."}
+{"id": "o29", "label": "opus", "prompt": "Explain why the bias of a maximum-likelihood variance estimator is (n\u22121)/n, derive it, and analyze when the unbiased version has higher mean squared error."}
+{"id": "o30", "label": "opus", "prompt": "Design a multi-region active-active architecture for a payment service with strict consistency for balances. Analyze conflict resolution, latency, failure scenarios and justify every trade-off."}
